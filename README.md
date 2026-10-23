@@ -10,8 +10,8 @@ I've worked on:
 - Geospatial analysis for market expansion
 - Regulatory and product-safety monitoring pipelines
 - SEO and AI-search strategy
-- Sports analytics (mostly cricket)
+- Sports analytics
 
 I mostly work in Python and SQL, and I've also spent time with scikit-learn, XGBoost, SHAP, Streamlit, QGIS, and Power BI.
 
-I'm always happy to chat about fintech, analytics, cricket (especially the IPL), or anything you're building.
+I'm always happy to chat about fintech, analytics, or anything you're building.
