@@ -1,20 +1,17 @@
-## Hi!
+# Hi there!
 
-I'm Preksh! I study Data Science and Managerial Economics at UMass Amherst. I'm currently an undergraduate research assistant in economics, and this past summer I interned on the analytics team at Piramal Pharma's consumer healthcare business in Mumbai.
+I'm Preksh! I'm presently doing network analysis research at UMass Amherst, and earlier interned in analytics at Piramal Pharma.
 
-### Current research
+Lately, I've been devoting most of my time to network modeling and financial ML, alongside some document-to-data pipeline work.
 
-I'm working on a project studying **elite populations and how their networks evolve over time**. We digitize historical directories using OCR, use LLMs to structure the messy text into clean records, and verify them against public sources. From there, we build networks and use network and cluster analysis to track how they shift across decades.
+I have explored:
 
-### What I've worked on
-
-- Turning historical documents into network data (OCR + LLM pipelines)
 - Network and cluster analysis
-- Explainable ML for credit risk
-- Geospatial analysis for market expansion
-- Regulatory and product-safety monitoring pipelines
+- Financial ML and credit risk
+- OCR and LLM data pipelines
 - Sports analytics
+- Creating tools that make raw data easier to act on
 
-I mostly work in Python, SQL, and R, and I've also spent time with scikit-learn, XGBoost, SHAP, Streamlit, QGIS, and Power BI.
+I primarily work in Python, SQL, and R, and I've also worked with scikit-learn, XGBoost, SHAP, Streamlit, and Power BI.
 
-I'm always happy to chat about fintech, analytics, computational social science, sports analytics, or anything you're building.
+I'm always happy to talk about fintech, data science, research, or anything you're working on.
